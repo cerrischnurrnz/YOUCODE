@@ -1,0 +1,21 @@
+Start
+node genMM.js
+final result will be like:
+
+[
+    {
+      "address": "q",
+      "privateKey": "q",
+      "mnemonic": "permit peasant uncle shell journey depth village mimic cube"
+    },
+    {
+      "address": "q",
+      "privateKey": "q",
+      "mnemonic": "wash federal truck catalog pigeon craft trade violin outer"
+    },
+    {
+      "address": "q",
+      "privateKey": "q",
+      "mnemonic": "disagree da awake spin vessel pepper"
+    }
+  ]
